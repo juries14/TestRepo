@@ -14,6 +14,7 @@ namespace GitUpload_Sample
             Console.WriteLine("Testing");
             Console.WriteLine("Testing1");
             Console.WriteLine("Enhancement 1");
+            Console.WriteLine("Enhancement 2");
             Console.ReadLine();
         }
     }
